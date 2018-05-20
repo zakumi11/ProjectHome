@@ -6,5 +6,6 @@ public class HomeWork {
         int q = 21;
         double w = 8;
         System.out.println(q / w);
+        System.out.println("line");
     }
 }
